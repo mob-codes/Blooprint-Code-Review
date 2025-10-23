@@ -1,5 +1,5 @@
 {
-  "name": "Gemini Code Guardian",
+  "name": "Blooprint Developer Assistant",
   "description": "An automated code review tool powered by Gemini, designed to provide insightful feedback for new developers and novice software architects, helping them improve their coding and design skills.",
   "requestFramePermissions": []
 }
